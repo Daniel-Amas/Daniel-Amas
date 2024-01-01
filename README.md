@@ -1,6 +1,6 @@
 # Hey There! I'm Daniel Amas
 
-I am a passionate and aspiring software engineering student with a keen interest in web development and technologies such as React, MongoDB, and Python. While I also have experience in C++ and Java, my primary focus lies in building dynamic and responsive web applications.
+I am a passionate and aspiring software engineering student with a keen interest in web development and its related technologies such as React, Node.js, MongoDB, and Python. While I also have experience in C++ and Java, my primary focus lies in building dynamic and responsive web applications.
 
 ## Contact Info
 * LinkedIn: [Daniel Amas](linkedin.com/in/daniel-amas)
